@@ -1,0 +1,9 @@
+python==3.12.12
+tensorflow==2.19.0
+tensorflowjs==4.22.0
+numpy==2.0.2
+pandas==2.3.3
+Pillow==11.3.0
+matplotlib==3.10.0
+requests==2.32.4
+scikit-learn==1.6.1
