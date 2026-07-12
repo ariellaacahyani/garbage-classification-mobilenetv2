@@ -33,7 +33,10 @@ To support various production environments, the model has been exported into thr
 3. **TensorFlow.js (TFJS)** (`/tfjs_model`): Web-ready model format. The weights have been dynamically sharded into exactly 5 `.bin` files to optimize parallel downloading and client-side load times in the browser.
 
 ## 🛠️ Quick Start & Installation
+
 **1. Clone the repository**
+
 ```bash
-git clone [https://github.com/username/garbage-classification-mobilenet.git](https://github.com/username/garbage-classification-mobilenet.git)
-cd garbage-classification-mobilenet
+git clone https://github.com/ariellaacahyani/garbage-classification-mobilenetv2.git
+cd garbage-classification-mobilenetv2
+```
